@@ -1,33 +1,34 @@
-NoDataFonts
+# NoDataFonts
 
-NoDataFonts is a small, growing collection of free-to-use fonts gathered in one place for convenience. It exists mainly so downloading and keeping track of fonts doesn’t turn into a scavenger hunt.
+Welcome to **NoDataFonts** – a fun and free library of fonts collected for personal and educational use. This repository is meant to share fonts easily, so you can download, explore, and play around with them. All fonts here are free for commercial use, unless stated otherwise.
 
-What’s Inside
+---
 
-A variety of fonts organized into folders.
+## What You'll Find Here
 
-Each folder may include license information if available.
+- A variety of fonts organized in folders.
+- Each folder may include a README with font details and license info.
+- New fonts may be added over time – check back for updates!
 
-New fonts may be added from time to time.
+---
 
-Why This Repository Exists
+## How to Use
 
-It’s simply a personal library made public, so anyone who needs fonts can grab them without digging through dozens of websites.
+1. Browse the folders and pick the font you like.
+2. Download the font file (`.ttf`, `.otf`, etc.).
+3. Install it on your computer or use it in your projects.
 
-How to Use
+---
 
-Browse the folders.
+## Contributing
 
-Pick a font you like.
+If you have free fonts you want to share, feel free to:
 
-Download the file (.ttf, .otf, etc.).
+- Open a pull request  
+- Contact the repo owner
 
-Install it and use it in your projects.
+Let’s build a bigger, fun font library together!
 
-Contributing
+---
 
-If you have free, legally shareable fonts that you think would fit here, feel free to open a pull request.
-
-Support
-
-If you find this repo useful, giving it a ⭐ is appreciated—it helps others discover it too.
+Happy font-ing! 😎
